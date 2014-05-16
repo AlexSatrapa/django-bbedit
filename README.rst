@@ -2,7 +2,7 @@
 Django Clippings for BBEdit
 ===========================
 
-A dark version of Campfire theme without emoticons for Linkinus IRC client
+A collection of BBEdit clippings to make life easier for Django programmers.
 
 **Installation**
 
